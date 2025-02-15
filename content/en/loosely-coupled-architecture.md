@@ -4,7 +4,7 @@ status: Completed
 category: Property
 tags: ["fundamental", "architecture", "property"]
 ---
-
+asdasdasd
 Loosely coupled architecture is an architectural style
 where the individual components of an application are built independently from one another
 (the opposite paradigm of [tightly coupled architectures](/tightly-coupled-architecture/)).
